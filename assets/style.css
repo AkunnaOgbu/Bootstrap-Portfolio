@@ -1,0 +1,95 @@
+@import url("reset.css");
+
+.main-section {
+  background-color: #FAFAF0;
+  position: relative;
+  width: 500px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+@media (min-width: @screen-sm-min) { ... }
+
+
+@media (min-width: @screen-md-min) { ... }
+
+
+@media (min-width: @screen-lg-min) { ... }
+.Do {border-color: grey;
+	 border-width: 3px;
+	 }
+
+.container {
+  background-color: #d1e9ea;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+
+}
+
+main {
+	padding-top: 20px;
+}
+
+nav {
+	float: right;
+	border: 100px;
+	color: #81c4b8;
+
+}
+
+top-container
+	{float left}
+
+#top {
+	background: #d1e9ea;
+	margin:  12 25px;
+	color: #fff;
+	width: 100%;
+}
+
+
+
+
+body {
+	background: url(http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC.jpg);
+	font-size: 15px;
+	font-family: sans-serif;
+	color: #3380d6;
+	position: relative;
+}
+
+* {box-sizing: border-box;}
+
+article, aside, footer, header, main, nav, section {
+	display: block;
+}
+
+#social {
+	float: right;
+	margin: 10px;
+	padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+	padding-top: 40px;
+	background color: #FAFAF0;
+	border: 2px;
+}
+
+#contact-form li {
+	margin-bottom: 10px;
+}
+
+
+body {
+	background: url(http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC.jpg);
+	font-size; 18px;
+	font-family: sans-serif;
+	color: #3380d6;
+}
+
+footer {float: bottom;}
+}
